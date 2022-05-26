@@ -1,9 +1,10 @@
 
+<h1 align="center">Hi 👋, I'm a passionate Python Developer and Package Builder</h1>
 
+Mostly experienced in Package Building, Back End development with Python (FastAPI, Django, Flask), data mining, web scraping and NLP.
 
-![Metrics](https://metrics.lecoq.io/skupr-anaconda?template=classic&repositories.forks=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
-
-
+My professional interests are quite broad and include software engineering, programming, data analitics, data science
+ – to name just a few. I prefer a knowledge that will remain relevant over the years. 
 
 <p align="center">
     <a href="https://github.com/skupr-anaconda?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -31,27 +32,30 @@
 
 ### Tech Stack
 
-- Python, C language, Bash; 
+- Python, Shell scripting, Bash, C language; 
 
-- DevOps: Conda, conda-build, Docker, Heroku, VirtualBox, VMware, Linux Shell;
+- Package Building, Package Management, Dependency solving (conda, conda-build, pip, setuptools, compilers gcc & clang) 
 
-- Frameworks – Django, Flask;  
+- Frameworks – FastAPI, Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4); 
 
-- Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4); 
+- Web Scraping, Data mining (Regex, Selenium, Scrapy, BeautifulSoup, Requests);   
 
-- Web Scraping (Regex, Selenium, Scrapy, BeautifulSoup, Requests); 
+- Data Science (NLP, SpaCy, Machine Learning, scikit-learn);  
 
-- SQL (SQLite, SQLAlchemy, MySQL/MariaDB, PostgreSQL), Databases (Airtable);  
+- Data Analytics (Pandas, Numpy, Jupyter Notebook); Data Visualization with Matplotlib, Seaborn, Plotly; 
 
-- Data Science (NLP, SpaCy, Machine Learning, scikit-learn, PySpark);  
+- SQL (SQLite, SQLAlchemy, PostgreSQL), Databases (Airtable);
 
-- Data Analytics (Pandas, Numpy, Jupyter Notebook);  
+- YAML, JSON, XML, Makefile, Git, GitHub, Jira, etc.  
 
-- Data Visualization with Matplotlib, Seaborn, Plotly; 
+- Cloud: AWS S3;
 
-- JSON, XML, Git, GitHub, Jira, etc.  
+- CI/CD, DevOps: Docker, Docker Compose, Bitbucket Pipelines, Github Actions, Heroku, Concourse, Prefect, VirtualBox, VMware, Linux Shell;
 
-### 2021 goals 
+### 2022 goals 
 
-- 💎 - Practice C language and Bash
+- 💎 - Practice C language, Bash, and compilers
 - 🦋 - Learn Python better
+
+
+![Metrics](https://metrics.lecoq.io/skupr-anaconda?template=classic&repositories.forks=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
