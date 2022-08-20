@@ -16,7 +16,6 @@ My professional interests are quite broad and include software engineering, prog
 
 <p align="center">
     <a href="https://github.com/skupr-anaconda?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/skupr-anaconda" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/skupr-anaconda/skupr-anaconda?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/skupr-anaconda/skupr-anaconda" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/skupr-anaconda/skupr-anaconda?label=profile%20updated&style=flat-square"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skupr-anaconda" alt="skupr-anaconda" /> </p>
