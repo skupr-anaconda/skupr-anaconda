@@ -1,18 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm a passionate Python Developer and Package Builder</h1>
 
-Mostly experienced in Package Building, Back End development with Python (FastAPI, Django, Flask), data mining, web scraping and NLP.
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. 
+
+Mostly experienced in Package Building, Back End development with Python (FastAPI, Django, Flask) and Rust (Rocket), data mining, web scraping and NLP.
 
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
  – to name just a few. I prefer a knowledge that will remain relevant over the years. 
 
 <p align="center">
     <a href="https://github.com/skupr-anaconda?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/skupr-anaconda?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/skupr-anaconda?tab=repositories&language=Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/skupr-anaconda?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-ff0000?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
     <a href="https://github.com/skupr-anaconda?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/skupr-anaconda?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/skupr-anaconda?tab=repositories&language=Shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 </p>
-
 
 <p align="center">
     <a href="https://github.com/skupr-anaconda?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
@@ -56,5 +59,24 @@ My professional interests are quite broad and include software engineering, prog
 - 💎 - Practice C language, Bash, and compilers
 - 🦋 - Learn Python better
 
+### 2023 goals 
+
+- Learn Rust
+
+### 2024 goals   
+
+Learn Rust and Rocket 
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | B1                                                                        |
+| Spanish       | A2                                                                        |
+| Ukrainian     | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- Rust
 
 ![Metrics](https://metrics.lecoq.io/skupr-anaconda?template=classic&repositories.forks=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
