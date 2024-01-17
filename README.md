@@ -9,7 +9,7 @@ Mostly experienced in Package Building, Back End development with Python (FastAP
 My professional interests are quite broad and include software engineering, programming, data analitics, data science
  – to name just a few. I prefer a knowledge that will remain relevant over the years. 
 
-<p align="center">
+<p>
     <a href="https://github.com/skupr-anaconda?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/skupr-anaconda?tab=repositories&language=Python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/skupr-anaconda?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-ff0000?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
@@ -17,20 +17,28 @@ My professional interests are quite broad and include software engineering, prog
     <a href="https://github.com/skupr-anaconda?tab=repositories&language=Shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 </p>
 
-<p align="center">
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+[![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
+
+
+<p>
     <a href="https://github.com/skupr-anaconda?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/skupr-anaconda/skupr-anaconda" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/skupr-anaconda/skupr-anaconda?label=profile%20updated&style=flat-square"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=skupr-anaconda" alt="skupr-anaconda" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=skupr-anaconda" alt="skupr-anaconda" /> </p>
 
 <details>
 <summary>Click for GitHub Stats</summary>
-<p align="center">
+<p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skupr-anaconda&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skupr-anaconda&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skupr-anaconda&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 </details>
+
 
 ### Tech Stack
 
@@ -78,5 +86,12 @@ Learn Rust and Rocket
 ## What I'm currently learning 📚
 
 - Rust
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skupr-anaconda&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skupr-anaconda&theme=github_dark)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=skupr-anaconda)
+
 
 ![Metrics](https://metrics.lecoq.io/skupr-anaconda?template=classic&repositories.forks=true&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev)
