@@ -24,6 +24,16 @@ My professional interests are quite broad and include software engineering, prog
 [![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 
 
+
+<p align="left"> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> 
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+ </p>
+
+
 <p>
     <a href="https://github.com/skupr-anaconda?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/skupr-anaconda/skupr-anaconda" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/skupr-anaconda/skupr-anaconda?label=profile%20updated&style=flat-square"></a>
@@ -37,6 +47,8 @@ My professional interests are quite broad and include software engineering, prog
     <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skupr-anaconda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
  <img src="https://myreadme.vercel.app/api/embed/skupr-anaconda?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skupr-anaconda&" alt="skupr-anaconda" /></p>
 </p>
 </details>
 
