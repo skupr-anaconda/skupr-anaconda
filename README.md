@@ -55,17 +55,17 @@ My professional interests are quite broad and include software engineering, prog
 
 ### Tech Stack
 
-- Python, Shell scripting, Bash, C language; 
+- Python, Shell scripting (Bash, Batch), Rust; 
 
 - Package Building, Package Management, Dependency solving (conda, conda-build, pip, setuptools, compilers gcc & clang) 
 
-- Frameworks – FastAPI, Django, Flask; Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4); 
+- Frameworks – Python (FastAPI, Django, Flask), Rust (Rocket); Front-end Development (HTML, CSS), Web Design (Wordpress, Bootstrap4); 
 
-- Web Scraping, Data mining (Regex, Selenium, Scrapy, BeautifulSoup, Requests);   
+- Web Scraping, Data mining (Regex, Selenium, BeautifulSoup, Requests);   
 
-- Data Science (NLP, SpaCy, Machine Learning, scikit-learn);  
+- Data Science (NLP, SpaCy);  
 
-- Data Analytics (Pandas, Numpy, Jupyter Notebook); Data Visualization with Matplotlib, Seaborn, Plotly; 
+- Data Analytics (Pandas, Numpy, Jupyter Notebook); Data Visualization with Matplotlib, Seaborn; 
 
 - SQL (SQLite, SQLAlchemy, PostgreSQL), Databases (Airtable);
 
